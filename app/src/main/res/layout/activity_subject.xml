@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".sempage">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:rowCount="4"
+        android:columnCount="1"
+        android:layout_margin="5dp"
+        android:alignmentMode="alignMargins"
+        android:layout_gravity="center_horizontal"
+        android:columnOrderPreserved="false">
+
+        <Button
+            android:id="@+id/sub1"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="sub1"/>
+        <Button
+            android:id="@+id/sub2"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="sub2"/>
+        <Button
+            android:id="@+id/sub3"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="sub3"/>
+        <Button
+            android:id="@+id/sub4"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="sub4"/>
+        <Button
+            android:id="@+id/sub5"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="sub5"/>
+
+
+
+    </GridLayout>
+</LinearLayout>
+
+</ScrollView>
+
+
+
+
