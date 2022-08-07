@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/robin/Desktop/FaqApp (3)/FaqApp/app/src/main/res/drawable-xhdpi/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp (3)/FaqApp/app/src/main/res/drawable/custom_input.xml" value="0.1" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp (3)/FaqApp/app/src/main/res/drawable/ic_iphone_6__7__8_plus___1.xml" value="0.1" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp (3)/FaqApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp (3)/FaqApp/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp (3)/FaqApp/app/src/main/res/drawable/ic_send.xml" value="0.1" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp (3)/FaqApp/app/src/main/res/font/aref_ruqaa_bold.xml" value="0.1175925925925926" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp (3)/FaqApp/app/src/main/res/layout/first.xml" value="0.264" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp (3)/FaqApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/drawable-v24/bot_chat.xml" value="0.125" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/drawable-v24/user_chat.xml" value="0.1" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/drawable/custom_input.xml" value="0.1" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/drawable/ic_iphone_6__7__8_plus___1.xml" value="0.1" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/layout/activity_chatbot.xml" value="0.2" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/layout/activity_logged_in.xml" value="0.25" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/layout/activity_module.xml" value="0.25" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/layout/activity_pdfpage.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/layout/activity_sempage.xml" value="0.1" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/layout/activity_subject.xml" value="0.25" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/layout/bot_message_box.xml" value="0.176" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/layout/grid_item.xml" value="0.225" />
+        <entry key="..\:/Users/robin/Desktop/FaqApp/app/src/main/res/layout/user_message_box.xml" value="0.225" />
+        <entry key="..\:/Users/robin/Desktop/New folder/FaqApp/app/src/main/res/layout/activity_chatbot.xml" value="0.25" />
+        <entry key="..\:/Users/robin/Desktop/New folder/FaqApp/app/src/main/res/layout/activity_module.xml" value="0.25" />
+        <entry key="..\:/Users/robin/Desktop/New folder/FaqApp/app/src/main/res/layout/activity_sempage.xml" value="0.25" />
+        <entry key="..\:/Users/robin/Desktop/New folder/FaqApp/app/src/main/res/layout/activity_subject.xml" value="0.25" />
+        <entry key="..\:/Users/robin/Desktop/New folder/FaqApp/app/src/main/res/layout/bot_message_box.xml" value="0.25" />
+        <entry key="..\:/Users/robin/Desktop/mad lab/FaqApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/robin/Desktop/mad lab/FaqApp/app/src/main/res/layout/activity_sempage.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/robin/Desktop/mad lab/FaqApp/app/src/main/res/layout/activity_subject.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (3)/FaqApp/app/src/main/res/layout/activity_logged_in.xml" value="0.20454545454545456" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (3)/FaqApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (3)/FaqApp/app/src/main/res/layout/anim.xml" value="0.1" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (3)/FaqApp/app/src/main/res/layout/first.xml" value="0.1" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (3)/FaqApp/app/src/main/res/layout/starting.xml" value="0.159375" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (3)/FaqApp/app/src/main/res/menu/logoutaction.xml" value="0.159375" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (3)/FaqApp/app/src/main/res/menu/menu_scrolling.xml" value="0.159375" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (3)/FaqApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (3)/FaqApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (4)/FaqApp/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (4)/FaqApp/app/src/main/res/layout/activity_chatbot.xml" value="0.2" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (4)/FaqApp/app/src/main/res/layout/activity_logged_in.xml" value="0.2" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (4)/FaqApp/app/src/main/res/layout/activity_main.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (4)/FaqApp/app/src/main/res/layout/activity_module.xml" value="0.2" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (4)/FaqApp/app/src/main/res/layout/activity_pdfpage.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (4)/FaqApp/app/src/main/res/layout/activity_register.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (4)/FaqApp/app/src/main/res/layout/activity_sc.xml" value="0.25" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (4)/FaqApp/app/src/main/res/layout/activity_sempage.xml" value="0.2" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (4)/FaqApp/app/src/main/res/layout/activity_subject.xml" value="0.2" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (4)/FaqApp/app/src/main/res/layout/first.xml" value="0.1" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (4)/FaqApp/app/src/main/res/layout/s.xml" value="0.18" />
+        <entry key="..\:/Users/sanjana/Downloads/FaqApp (4)/FaqApp/app/src/main/res/xml/searchable.xml" value="0.20416666666666666" />
+        <entry key="..\:/study material/Study material/6th sem notes/mad lab/FaqApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
